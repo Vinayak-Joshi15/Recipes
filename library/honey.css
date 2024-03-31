@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+.photo {
+    align-content: center;
+}
+
+p {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+h1 , h3{
+    color: white;
+}
